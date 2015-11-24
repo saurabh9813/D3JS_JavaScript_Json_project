@@ -1,0 +1,92 @@
+[
+  {
+    "country": "Monaco",
+    "growth1": 124023,
+    "growth2": null,
+    "growth3": 0
+  },
+  {
+    "country": "Liechtenstein",
+    "growth1": 103658,
+    "growth2": null,
+    "growth3": 0
+  },
+  {
+    "country": "Bermuda",
+    "growth1": 73481,
+    "growth2": null,
+    "growth3": 0
+  },
+  {
+    "country": "Luxembourg",
+    "growth1": 73444,
+    "growth2": null,
+    "growth3": 0
+  },
+  {
+    "country": "Norway",
+    "growth1": 62623,
+    "growth2": 62675,
+    "growth3": 0
+  },
+  {
+    "country": "Switzerland",
+    "growth1": 53091,
+    "growth2": 55189,
+    "growth3": 0
+  },
+  {
+    "country": "Qatar",
+    "growth1": 51067,
+    "growth2": null,
+    "growth3": 0
+  },
+  {
+    "country": "Iceland",
+    "growth1": 49800,
+    "growth2": null,
+    "growth3": 0
+  },
+  {
+    "country": "Denmark",
+    "growth1": 46556,
+    "growth2": 45915,
+    "growth3": 0
+  },
+  {
+    "country": "Ireland",
+    "growth1": 45182,
+    "growth2": 38356,
+    "growth3": 0
+  },
+  {
+    "country": "San Marino",
+    "growth1": 44417,
+    "growth2": null,
+    "growth3": 0
+  },
+  {
+    "country": "United Arab Emirates",
+    "growth1": 43837,
+    "growth2": 45789,
+    "growth3": 0
+  },
+  {
+    "country": "United States",
+    "growth1": 40938,
+    "growth2": 41249,
+    "growth3": 0
+  },
+  {
+    "country": "Netherlands",
+    "growth1": 40138,
+    "growth2": 39878,
+    "growth3": 0
+  },
+  {
+    "country": "Sweden",
+    "growth1": 39013,
+    "growth2": 39026,
+    "growth3": 0
+  }
+]

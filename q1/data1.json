@@ -1,0 +1,92 @@
+[
+  {
+    "country": "United States",
+    "growth1": 11666077100000,
+    "growth2": 11754767726104,
+    "growth3": 0
+  },
+  {
+    "country": "Japan",
+    "growth1": 4323406462816,
+    "growth2": 4396368835766,
+    "growth3": 0
+  },
+  {
+    "country": "Germany",
+    "growth1": 2824517970401,
+    "growth2": 2800174073418,
+    "growth3": 0
+  },
+  {
+    "country": "United Kingdom",
+    "growth1": 2143087636363,
+    "growth2": 2162514513938,
+    "growth3": 0
+  },
+  {
+    "country": "France",
+    "growth1": 2069715831364,
+    "growth2": 2107039291690,
+    "growth3": 0
+  },
+  {
+    "country": "Italy",
+    "growth1": 1800190399204,
+    "growth2": 1794277094067,
+    "growth3": 0
+  },
+  {
+    "country": "China",
+    "growth1": 1542076641291,
+    "growth2": 1519993173923,
+    "growth3": 0
+  },
+  {
+    "country": "Canada",
+    "growth1": 1044184353853,
+    "growth2": 1015436840990,
+    "growth3": 0
+  },
+  {
+    "country": "Spain",
+    "growth1": 1018743066782,
+    "growth2": 1008119239220,
+    "growth3": 0
+  },
+  {
+    "country": "Mexico",
+    "growth1": 793858373511,
+    "growth2": 778836212997,
+    "growth3": 0
+  },
+  {
+    "country": "Brazil",
+    "growth1": 784547535114,
+    "growth2": 748874056043,
+    "growth3": 0
+  },
+  {
+    "country": "Netherlands",
+    "growth1": 644077229200,
+    "growth2": 639897815591,
+    "growth3": 0
+  },
+  {
+    "country": "India",
+    "growth1": 631725521906,
+    "growth2": 626267090908,
+    "growth3": 0
+  },
+  {
+    "country": "Australia",
+    "growth1": 602389157113,
+    "growth2": 585569519532,
+    "growth3": 0
+  },
+  {
+    "country": "Russian Federation",
+    "growth1": 596279608360,
+    "growth2": 589118000289,
+    "growth3": 0
+  }
+]
